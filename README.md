@@ -1,5 +1,6 @@
 # Laptop-Price-Prediction-Model
 A machine learning model to predict laptop prices based on specifications like brand, CPU, RAM, storage, GPU, screen features, and OS. Built using Python, Pandas, scikit-learn, and Matplotlib.
+It also has a basic application interface for user input built using streamlit.
 
 ---
 
